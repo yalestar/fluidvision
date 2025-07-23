@@ -1,0 +1,21 @@
+{
+    "name": "fluidvision",
+    "displayName": "Fluidvision",
+    "description": "Fluidvision tmTheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fluidvision",
+                "uiTheme": "vs",
+                "path": "./themes/Fluidvision-color-theme.json"
+            }
+        ]
+    }
+}
