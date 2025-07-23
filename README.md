@@ -1,6 +1,6 @@
-# My TextMate Theme
+# Fluidvision Theme
 
-A beautiful color theme converted from TextMate format for Visual Studio Code.
+A color theme converted from TextMate format for Visual Studio Code.
 
 ## Installation
 
@@ -13,7 +13,7 @@ A beautiful color theme converted from TextMate format for Visual Studio Code.
 
 1. Open Command Palette (Ctrl+Shift+P)
 2. Type "Preferences: Color Theme"
-3. Select "My Theme" from the list
+3. Select "Fluidvision" from the list
 
 ## Features
 
